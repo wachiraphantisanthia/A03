@@ -3,6 +3,6 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 
 
-## Deploy on Vercel
+## Deployment on Vercel
 
 https://a03-kohl.vercel.app/
